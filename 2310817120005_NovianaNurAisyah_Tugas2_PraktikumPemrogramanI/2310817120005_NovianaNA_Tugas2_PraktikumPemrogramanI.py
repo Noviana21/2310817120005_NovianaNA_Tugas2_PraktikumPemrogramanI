@@ -1,0 +1,1 @@
+print('Selamat Pagi, \n\nTeknologi Informasi FTULM Selalu dihati')
